@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @channtropyque
 - 👀 I’m interested in technology (developer and data sciency)
-- 🌱 I’m currently learning C# and NodeJs
+- 🌱 I’m currently learning about Docker, Flutter and Python
 - 💞️ I’m looking for a opportunity to collaborate on projects of data sciency
 - 📫 How to reach me? Send a e-mail to scientdev@gmail.com
 
